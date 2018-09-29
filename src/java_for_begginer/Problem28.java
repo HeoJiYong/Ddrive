@@ -8,7 +8,7 @@ public class Problem28 {
 		int days = 1200;
 		double result = 100*Math.sin((days%index)*2*Math.PI/index);
 		
-		System.out.printf("%1$f \n",result);
+		System.out.printf("%1$.2f\n",result);
 		/*printf 를 쓴이유 : %f 를 쓰려고
 		 * 1$ : 첫번째 인자를 가져온다.
 		 * printf("%3$d %2$d %1$d",num1,num2,num3); 처럼 쓰면
