@@ -24,6 +24,5 @@ public class Problem55 {
 		print(a,b,c);	//변수 세개
 		print(1,2,4);	//정수 값
 		print(1,2,a,b,4);//정수값, 정수형 변수
-	}
-
+	} 
 }
