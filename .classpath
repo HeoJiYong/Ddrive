@@ -5,6 +5,7 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="java_for_begginer/Problem31.java" kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/java_for_begginer/Problem31.java"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
